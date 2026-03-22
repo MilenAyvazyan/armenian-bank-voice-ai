@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Armenian Bank Voice AI Support Agent
 
 A voice AI assistant for Armenian banks built with LiveKit (open-source). The agent understands and speaks Armenian, and answers questions strictly about credits, deposits, and branch locations based on scraped bank website data.
