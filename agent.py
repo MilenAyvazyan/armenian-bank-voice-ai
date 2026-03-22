@@ -9,18 +9,6 @@ load_dotenv()
 
 query_engine = get_query_engine()
 
-
-def build_system_prompt(context: str) -> str:
-    return f"""Դու հայկական բանկերի հայերենով խոսող օգնական ես։
-Կարող ես պատասխանել միայն վարկերի, ավանդների և մասնաճյուղերի մասին։
-Պատասխանները հիմնիր միայն ստորև տրված տվյալների վրա, outside knowledge մի օգտագործիր։
-Եթե հարցը այդ թեմաներից դուրս է, քաղաքավարի մերժիր։
-Պատասխանիր կարճ, հստակ, հայերեն։
-
-Տվյալներ։
-{context}"""
-
-
 async def entrypoint(ctx: JobContext):
     await ctx.connect()
 
