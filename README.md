@@ -170,5 +170,4 @@ armenian-bank-voice-ai/
 └── README.md
 ```
 =======
-# armenian-bank-voice-ai
->>>>>>> bf39cffa292c686275046df2452da6e779479b4c
+
