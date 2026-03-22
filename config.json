@@ -1,0 +1,40 @@
+{
+  "banks": [
+    {
+      "name": "Ameriabank",
+      "pages": [
+        {"url": "https://ameriabank.am/personal/loans", "topic": "credits"},
+        {"url": "https://ameriabank.am/personal/loans/consumer-loans/consumer-loans", "topic": "credits"},
+        {"url": "https://ameriabank.am/personal/loans/consumer-loans/consumer-finance", "topic": "credits"},
+        {"url": "https://ameriabank.am/personal/loans/mortgage/secondary-market", "topic": "credits"},
+        {"url": "https://ameriabank.am/personal/saving/deposit", "topic": "deposits"},
+        {"url": "https://ameriabank.am/personal/saving/deposits/ameria-deposit", "topic": "deposits"},
+        {"url": "https://ameriabank.am/service-network", "topic": "branches"}
+      ]
+    },
+    {
+      "name": "ACBA",
+      "pages": [
+        {"url": "https://www.acba.am/hy/individuals/loans", "topic": "credits"},
+        {"url": "https://www.acba.am/hy/individuals/loans/consumer-credits", "topic": "credits"},
+        {"url": "https://www.acba.am/hy/individuals/loans/collateral-loans/deposit-secured", "topic": "credits"},
+        {"url": "https://www.acba.am/hy/individuals/save-and-invest/deposits", "topic": "deposits"},
+        {"url": "https://www.acba.am/hy/individuals/save-and-invest/deposits/classic", "topic": "deposits"},
+        {"url": "https://www.acba.am/hy/about-bank/Branches-and-ATMs", "topic": "branches"},
+        {"url": "https://www.acba.am/hy/contacts", "topic": "branches"}
+      ]
+    },
+    {
+      "name": "InecoBank",
+      "pages": [
+        {"url": "https://www.inecobank.am/hy/Individual/consumer-loans", "topic": "credits"},
+        {"url": "https://www.inecobank.am/hy/Individual/consumer-loans/secured-consumer-loan", "topic": "credits"},
+        {"url": "https://www.inecobank.am/hy/Individual/consumer-loans/deposit-secured/documents", "topic": "credits"},
+        {"url": "https://www.inecobank.am/hy/Individual/deposits", "topic": "deposits"},
+        {"url": "https://www.inecobank.am/hy/Individual/deposits/flexible", "topic": "deposits"},
+        {"url": "https://www.inecobank.am/hy/about/branches", "topic": "branches"},
+        {"url": "https://www.inecobank.am/hy/map", "topic": "branches"}
+      ]
+    }
+  ]
+}
